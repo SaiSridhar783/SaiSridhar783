@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hello there 👋
 
-I am an Sai Sridhar Akula. Aficianado Watcher 📺, Gamer 🕹, Frontend Developer and an aspiring Fullstack Enthusiast 🤖.
+I am Sai Sridhar Akula. Aficianado Watcher 📺, Gamer 🕹, Frontend Developer and an aspiring Fullstack Enthusiast 🤖.
 
 ### I like making things that interest me.
 
