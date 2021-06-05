@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h1 align='center'>
 	Hola Amigos 👋 💻
 </h1>
-<h2 align='center' style={{font-color: "magenta"}}>
+<h2 align='center' style="color:purple">
 	You have reached the abode of Sai Sridhar Akula 👨‍💻
 </h2>
 <h5 align='center'>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-	<h3> Connect with Me! 😄📮:</h3>
+	<h3 style="color:#b07e33""> Connect with Me! 😄📮:</h3>
 	<a href="https://github.com/SaiSridhar783"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> 
 	<a href="https://www.linkedin.com/in/akula-sai-sridhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 	<a href="mailto:sridhar.akula001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 	</p>
 </div>
 <div align="center">
-	<h2 id="other-profiles">Other Profiles</h2>
+	<h2 id="other-profiles" style="color:#b07e33">Other Profiles</h2>
 	<p><a href="https://www.hackerrank.com/SaiSridhar783"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> <a href="https://www.hackerearth.com/@sridhar.akula001"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a></p>
 </div>
 <div align="center">
-	<h1 id="my-tech-stack-">My Tech Stack 🔭:</h1>
+	<h1 id="my-tech-stack-" style="color:#b07e33"">My Tech Stack 🔭:</h1>
     <table>
   <tr>
     <td valign="top"><h2 id="strong" align="center">Strong</h2>
@@ -85,14 +85,14 @@ Here are some ideas to get you started:
   </tr>
 </table>
 	<br/>
-	<h1>My Workspace 🧐🤓</h1>
+	<h1 style="color:#b07e33">My Workspace 🧐🤓</h1>
 	<img alt="Spyder" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
 	<img alt="InkScape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
 	<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> 
 </div>
 <br/>
 <div align="center">
-	<h1>
+	<h1 style="color:#b07e33">
 	Skills On the Way 👨‍🎓 
 	<h1>
 	<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
