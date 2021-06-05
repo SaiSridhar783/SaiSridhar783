@@ -12,14 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello there 👋
 
-I am Sai Sridhar Akula. Aficianado Watcher 📺, Gamer 🕹, Frontend Developer and an aspiring Fullstack Enthusiast 🤖.
+<h1 align='center'>
+	Hola Amigos 👋 💻
+</h1>
+
+<h2 align='center'>
+	You have reached the abode of Sai Sridhar Akula 👨‍💻
+</h2>
+
+<h5 align='center'>
+	Frontend Developer and Fullstack Enthusiast 🤖.
+</h5>
+
 
 ### I like making things that interest me.
 
-# Connect with Me 📮:
+<p align="center"> 
+	<b> Connect with Me! 😄📮:</b>
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>](https://github.com/SaiSridhar783) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>](https://www.linkedin.com/in/akula-sai-sridhar/) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />](mailto:sridhar.akula001@gmail.com) [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />](https://www.facebook.com/ShadowKiller783/) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />](https://twitter.com/ShadowKiller783) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />](https://www.instagram.com/redhot_deadshot/)
+</p>
 
 ## Other Profiles
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/SaiSridhar783) [<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>](https://www.hackerearth.com/@sridhar.akula001)
