@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 	<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=60A615&amp;lines=Frontend+Developer+and+Python+Developer+%F0%9F%A4%96.;Python+Developer+and+Frontend+Developer" alt="Typing SVG"></a></p>
 </h5>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+	<p><a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Readme Quotes"></a></p>
+</div>
 
 <div align="center">
 	<h3> Connect with Me! 😄📮:</h3>
