@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h1 align='center'>
 	Hola Amigos 👋 💻
 </h1>
-<h2 align='center'>
+<h2 align='center' style={{font-color: "magenta"}}>
 	You have reached the abode of Sai Sridhar Akula 👨‍💻
 </h2>
 <h5 align='center'>
