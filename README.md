@@ -55,3 +55,4 @@ I am Sai Sridhar Akula. Aficianado Watcher 📺, Gamer 🕹, Frontend Developer 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaiSridhar783&theme=dark&fire=DD2727&currStreakNum=DD2727&stroke=2C56DD&sideNums=8BDD10&dates=918F6E)](https://git.io/streak-stats)
 ![Nox's github stats](https://github-readme-stats.vercel.app/api?username=saisridhar783&show_icons=true&hide_border=true&theme=tokyonight)
+[![Visits Badge](https://badges.pufler.dev/visits/SaiSridhar783/SaiSridhar783)](https://badges.pufler.dev)
