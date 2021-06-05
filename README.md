@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 	You have reached the abode of Sai Sridhar Akula 👨‍💻
 </h2>
 <h5 align='center'>
-	Frontend Developer and Fullstack Enthusiast 🤖.
+	<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=60A615&amp;lines=Frontend+Developer+and+Python+Developer+%F0%9F%A4%96.;Python+Developer+and+Frontend+Developer" alt="Typing SVG"></a></p>
 </h5>
-<br />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <div align="center">
 	<h3> Connect with Me! 😄📮:</h3>
 	<a href="https://github.com/SaiSridhar783"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"/> 
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/redhot_deadshot/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 </div>
 <br />
+
 <div align="center">
 	<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SaiSridhar783&amp;theme=dark&amp;fire=DD2727&amp;currStreakNum=DD2727&amp;stroke=2C56DD&amp;sideNums=8BDD10&amp;dates=918F6E" alt="GitHub Streak"></a>
 		<img src="https://github-readme-stats.vercel.app/api?username=saisridhar783&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Nox&#39;s github stats">
@@ -44,11 +47,17 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 	<h1 id="my-tech-stack-">My Tech Stack 🔭:</h1>
-	<h2 id="strong">Strong</h2>
-	<p><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></p>
-	<h2 id="amateur">Amateur</h2>
-	<p><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></p>
-	<h2 id="frameworks">Frameworks</h2>
+    <div style={{display: flex}}>
+        <div width="50%">
+            <h2 id="strong">Strong</h2>
+            <p><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></p>   
+        </div>
+        <div width="50%">
+            <h2 id="amateur">Amateur</h2>
+            <p><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></p>  
+        </div>
+    </div>
+<h2 id="frameworks">Frameworks</h2>
 	<p><img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/> </p>
 	<h3 id="i-am-also-into-machine-learning-">I am also into Machine Learning 🤖!</h3>
 	<p><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="SkLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -60,10 +69,20 @@ Here are some ideas to get you started:
 	<img alt="InkScape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
 	<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> 
 </div>
+<br/>
+<div align="center">
+	<h1>
+	Skills On the Way 👨‍🎓 
+	<h1>
+	<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+</div>
 
-# Things I'm learning 👨‍🎓
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
+
+
 - 🔭 I’m currently working on **NextJS Blog** - (Markdown to JSX 😗)!
 - 👯 I’m looking to collaborate on Python and Front-End projects!
-- 💬 Ask me about Anime, TV shows and Movies!
+- 💬 Ask me about Anime, TV shows, Movies ans Tech!
 - ⚡ Fun fact: Twisty Puzzles Fascinate me (Rubik's Cube, Professor's Cube, Professor's Revenge) 🕋
