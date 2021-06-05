@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-	<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SaiSridhar783&amp;theme=dark&amp;fire=DD2727&amp;currStreakNum=DD2727&amp;stroke=2C56DD&amp;sideNums=8BDD10&amp;dates=918F6E" alt="GitHub Streak"></a>
-		<img src="https://github-readme-stats.vercel.app/api?username=saisridhar783&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Nox&#39;s github stats">
+	<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=SaiSridhar783&amp;theme=dark&amp;fire=DD2727&amp;currStreakNum=DD2727&amp;stroke=2C56DD&amp;sideNums=8BDD10&amp;dates=918F6E" alt="GitHub Streak" width="360"></a>
+		<img src="https://github-readme-stats.vercel.app/api?username=saisridhar783&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Nox&#39;s github stats" width="360">
 	</p>
 </div>
 <div align="center">
