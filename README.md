@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 	Hola Amigos 👋 💻
 </h1>
 <h2 align='center' style="color:purple">
-	You have reached the abode of Sai Sridhar Akula 👨‍💻
+	You have reached the archive of Sai Sridhar Akula 👨‍💻
 </h2>
 <h5 align='center'>
 	<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=60A615&amp;lines=Frontend+Developer+and+Python+Developer+%F0%9F%A4%96.;Python+Developer+and+Frontend+Developer" alt="Typing SVG"></a></p>
