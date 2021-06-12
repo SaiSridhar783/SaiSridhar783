@@ -107,3 +107,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python and Front-End projects!
 - 💬 Ask me about Anime, TV shows, Movies ans Tech!
 - ⚡ Fun fact: Twisty Puzzles Fascinate me (Rubik's Cube, Professor's Cube, Professor's Revenge) 🕋
+	
+-------------
+		
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SaiSridhar783/count.svg" />
+</p>
