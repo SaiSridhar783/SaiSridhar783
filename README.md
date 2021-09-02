@@ -103,8 +103,8 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🔭 I’m currently working on **NextJS Blog** - (Markdown to JSX 😗)!
-- 👯 I’m looking to collaborate on Python and Front-End projects!
+- 🔭 I’m currently working on my **Portfolio** website!
+- 👯 I’m looking to collaborate on Python and Full-Stack projects!
 - 💬 Ask me about Anime, TV shows, Movies ans Tech!
 - ⚡ Fun fact: Twisty Puzzles Fascinate me (Rubik's Cube, Professor's Cube, Professor's Revenge) 🕋
 	
