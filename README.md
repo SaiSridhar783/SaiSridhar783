@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 	<h1 style="color:#b07e33">
-	Skills On the Way 👨‍🎓 
+	Skills O the Way 👨‍🎓 
 	<h1>
 	<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
 </div>
